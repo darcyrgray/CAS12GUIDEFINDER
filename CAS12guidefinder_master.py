@@ -141,7 +141,7 @@ for item in maxdict:
 
 	wobble = ["A", "T", "C", "G"]
 	for base in wobble:
-		i=3
+		i=4
 #print(base); #old print statement used to monitor progress as the Wobble checking is SLOW
 		while i<25:
 			item_temp = item[:i]+base+item[(i+1):]
