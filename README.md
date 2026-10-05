@@ -17,3 +17,5 @@ Please note - author is a microbiology trainee trying to learn to implement comp
 Update 29/09/2026 - CAS12GF_rev.py is updated program - aimed to be combined with exclude_build.py --> uses more memory to build hash-table for faster look up for guide exclusion (using python sets instead of interating over whole genome/using lists).
 
 check_SA.py and check_mec.py were uploaded for reference - used to check guide presence in other reference genomes.
+
+Other files for reference to project only - not applicable for broader use.
